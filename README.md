@@ -2,7 +2,7 @@
 
 <img src="docs/banner.svg" alt="SQL Data Warehouse Project" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=760&lines=SQL+Data+Warehouse+Project;Medallion+Architecture%3A+Bronze+%E2%86%92+Silver+%E2%86%92+Gold;From+raw+CSVs+to+business-ready+insights" alt="Typing animation" />
+scripts/images/architecture.svg
 
 <br/>
 
