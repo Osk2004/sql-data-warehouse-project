@@ -2,7 +2,6 @@
 
 <img src="docs/banner.svg" alt="SQL Data Warehouse Project" width="100%"/>
 
-scripts/images/architecture.svg
 
 <br/>
 
