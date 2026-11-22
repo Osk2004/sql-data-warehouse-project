@@ -157,7 +157,9 @@ sql-data-warehouse-project/
 ---
 
 ## 👤 About Me
-
+<p align="center">
+  <img src="docs/fire-name.svg" alt="Om Suresh Kulthe" width="100%">
+</p>
 **Om**: Computer Engineering graduate (2026) focused on Data Analyst and SQL Developer roles.
 
 [LinkedIn link] · [GitHub link] · [Email]
