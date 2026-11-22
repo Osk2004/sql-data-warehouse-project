@@ -1,7 +1,8 @@
 <div align="center">
 
-<img src="docs/banner.svg" alt="SQL Data Warehouse Project" width="100%"/>
+<img src="scripts/images/banner.svg" alt="SQL Data Warehouse Project" width="100%"/>
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=760&lines=SQL+Data+Warehouse+Project;Medallion+Architecture%3A+Bronze+%E2%86%92+Silver+%E2%86%92+Gold;From+raw+CSVs+to+business-ready+insights" alt="Typing animation" />
 
 <br/>
 
@@ -11,7 +12,7 @@
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-3fb950?style=for-the-badge)
 
-<img src="docs/architecture.svg" alt="Medallion Architecture" width="100%"/>
+<img src="scripts/images/architecture.svg" alt="Medallion Architecture" width="100%"/>
 
 </div>
 
@@ -156,9 +157,11 @@ sql-data-warehouse-project/
 ---
 
 ## 👤 About Me
-<p align="center">
-  <img src="docs/fire-name.svg" alt="Om Suresh Kulthe" width="100%">
-</p>
-**Om**: Computer Engineering graduate (2026) focused on Data Analyst and SQL Developer roles.
+
+<div align="center">
+  <img src="scripts/images/robot.svg" alt="Om Suresh Kulthe robot mascot" width="420"/>
+</div>
+
+**Om Suresh Kulthe**: Computer Engineering graduate (2026) focused on Data Analyst and SQL Developer roles.
 
 [LinkedIn link] · [GitHub link] · [Email]
