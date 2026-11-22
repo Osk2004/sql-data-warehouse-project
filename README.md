@@ -164,4 +164,12 @@ sql-data-warehouse-project/
 
 **Om Suresh Kulthe**: Computer Engineering graduate (2026) focused on Data Analyst and SQL Developer roles.
 
-[LinkedIn link] · [GitHub link] · [Email]
+### 📬 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/om-kulthe137"><img src="https://img.shields.io/badge/LinkedIn-om--kulthe137-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/Osk2004"><img src="https://img.shields.io/badge/GitHub-Osk2004-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="mailto:oskulthe49@gmail.com"><img src="https://img.shields.io/badge/Email-oskulthe49@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
+
+<p align="center">💼 Open to Data Analyst · SQL Developer · BI roles &nbsp;|&nbsp; 📍 India, open to relocate</p>
